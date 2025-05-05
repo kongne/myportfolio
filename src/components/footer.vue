@@ -37,18 +37,15 @@
         </ul>
 
         <!-- Signature -->
-        <p class="w-full mx-auto my-[10px] text-center text-main  select-none bg-inherit">
-            Built by <span class="bg-inherit hover:text-accent">Andrija Stanković</span>
-            <br>Hosted by <span class="bg-inherit text-accent">Netlify.</span>
-        </p>
+      
 
     </div>
 
     <div class="heading-md:hidden">
         <!-- Signature -->
         <p class="w-full mx-auto my-[10px] text-center text-main  select-none bg-inherit">
-            Built by <span class="bg-inherit hover:text-accent">Junior Faha 2025</span>
-            <br>Hosted by <span class="bg-inherit text-accent">Netlify.</span>
+            Built by <span class="bg-inherit hover:text-accent">Junior Faha 2025 <sup>&copy;</sup></span>
+            <!--<br>Hosted by <span class="bg-inherit text-accent">Netlify.</span>-->
         </p>
     </div>
 
