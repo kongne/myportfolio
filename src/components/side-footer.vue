@@ -19,7 +19,7 @@
 
             <!-- Instagram -->
             <li class="w-50px hover:scale-105">
-                <a href="https://www.instagram.com/andrija_s21/" target=”_blank”>
+                <a href="https://www.instagram.com/wilson_12_2024/" target=”_blank”>
                     <svg class="fill-main hover:fill-accent" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="50px">
                         <path
                             d="M16,3H8C5.243,3,3,5.243,3,8v8c0,2.757,2.243,5,5,5h8c2.757,0,5-2.243,5-5V8C21,5.243,18.757,3,16,3z M19,16c0,1.654-1.346,3-3,3H8c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3h8c1.654,0,3,1.346,3,3V16z" 
